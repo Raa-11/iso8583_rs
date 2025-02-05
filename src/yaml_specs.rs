@@ -114,7 +114,7 @@ impl YamlSpec {
                         ));
                         
                     }else {
-                        field_length : usize = l.unwrap();
+                        field_length = l.unwrap();
                     }
                 }
                

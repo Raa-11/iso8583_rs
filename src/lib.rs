@@ -6,8 +6,8 @@
 // option. This file may not be copied, modified, or distributed
 // except according to those terms.
 #![allow(non_camel_case_types)]
-#![feature(type_ascription)]
-#![feature(test)]
+// #![feature(type_ascription)]
+// #![feature(test)]
 extern crate bit_array;
 extern crate typenum;
 extern crate yaml_rust;
